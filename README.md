@@ -1,1 +1,1 @@
-# slicing-psd-html-bootstrap
+# Contoh slicing PSD ke HTML
